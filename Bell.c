@@ -2,7 +2,7 @@
 
 void getBell() {
 	
-	char b = 6;
+	char b = 7;
 	putchar(b);
 
 	//
